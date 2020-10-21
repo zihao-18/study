@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlight",
+		"ConvertToUTF8",
+		"JsFormat",
+		"Package Control",
+		"SidebarSeparator",
+		"SublimeTmpl"
+	]
+}
